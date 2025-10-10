@@ -39,7 +39,7 @@ Replace "PORT" with the <strong>port</strong> that you are using for the server
   <!-- <a src="./demo.mp4" target="_blank">Watch video here</a> -->
 <!-- </video> -->
 <div style="position:relative; width:100%; height:0px; padding-bottom:56.250%">
-    <iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/x02cqw?" 
+    <iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/x02cqw" 
         width="100%" 
         style="
         border:none; 
