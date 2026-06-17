@@ -31,24 +31,3 @@ cd client
 go run main.go 127.0.0.1:PORT
 ```
 Replace "PORT" with the <strong>port</strong> that you are using for the server
-
-# Demo (recording)
-<!-- <video width="320" height="240" controls autoplay> -->
-<!-- <video width="320" height="240" controls autoplay> -->
-  <!-- Your browser does not support the video tag. -->
-  <!-- <a src="./demo.mp4" target="_blank">Watch video here</a> -->
-<!-- </video> -->
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%">
-    <iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/x02cqw" 
-        width="100%" 
-        style="
-        border:none; 
-        width:100%; 
-        height:100%; 
-        position:absolute; 
-        left:0px; 
-        top:0px; 
-        overflow:hidden;
-        ">
-    </iframe>
-</div>
