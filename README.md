@@ -1,3 +1,5 @@
+[Watch the demo here](https://mega.nz/file/G3gRyCbb#mziMURUhjOgjdmDOo4gTBonqxGnJWyfNRoD_-6CAF-0)
+
 # How to run the app locally?
 To run this app locally on your machine you will need
 1. POSIX shell (MacOS/Linux/BSD)
